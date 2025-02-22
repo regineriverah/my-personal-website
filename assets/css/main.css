@@ -549,7 +549,7 @@ section .container {
 #portfolio,
 #testimonials,
 #resume {
-  background-image: url("/assets/img/bg.gif");
+  background-image: url("/assets/img/bg.png");
   background-position: right center;
   background-repeat: no-repeat;
   background-size: cover;
