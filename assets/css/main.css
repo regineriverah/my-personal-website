@@ -542,6 +542,7 @@ section .container {
 }
 
 /* Apply background to multiple sections */
+#hero,
 #about,
 #skills,
 #contact,
@@ -549,7 +550,7 @@ section .container {
 #portfolio,
 #testimonials,
 #resume {
-  background-image: url("/assets/img/bg.png");
+  background-image: url("../img/bg.png");
   background-position: right center;
   background-repeat: no-repeat;
   background-size: cover;
